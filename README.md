@@ -1,5 +1,1 @@
-EDA - AMCAT Data Analysis Project focuses on understanding the employment outcomes of engineering graduates 
-based on a dataset released by Aspiring Minds, a leader in employment assessment.
-The objective of the AMCAT Data Analysis project is to systematically analyze the data
-collected by Aspiring Minds on engineering graduates to identify and quantify the factors
-that influence their initial salary levels after graduation.
+This project involves an in-depth exploratory data analysis of the AMCAT dataset, released by Aspiring Minds, a leader in employment assessment, focusing on employee outcomes related to Education, Experience, Location, and job placements. Utilizing Python libraries such as Pandas and Matplotlib, this analysis provides valuable insights that can inform educational institutions and job seekers about industry trends and requirements.
